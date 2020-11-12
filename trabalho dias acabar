@@ -1,0 +1,16 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	inteiro diasano = 0
+
+	escreva("olha o dia do ano ae \n")
+	leia(diasano)
+
+	escreva("faltam ")
+	escreva(365 - diasano)
+	escreva(" dias para 2020 acabar")
+
+	}
+}
